@@ -1,0 +1,111 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763612887684,
+      "tag": "0000_spotty_whiplash",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1763612951426,
+      "tag": "0001_loving_hobgoblin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1763613887384,
+      "tag": "0002_quick_wild_pack",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1763616890722,
+      "tag": "0003_absent_thunderbolt_ross",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1763833907549,
+      "tag": "0004_clever_triton",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1763943972510,
+      "tag": "0005_uneven_scarlet_spider",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1764211627624,
+      "tag": "0006_kind_senator_kelly",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1764212615127,
+      "tag": "0007_aromatic_harry_osborn",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1764213749596,
+      "tag": "0008_mixed_sandman",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1764214856549,
+      "tag": "0009_cuddly_vermin",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1764218577791,
+      "tag": "0010_puzzling_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "5",
+      "when": 1764244376079,
+      "tag": "0011_square_lady_deathstrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "5",
+      "when": 1764250364326,
+      "tag": "0012_tiresome_stellaris",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "5",
+      "when": 1764804073170,
+      "tag": "0013_large_carlie_cooper",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "5",
+      "when": 1764831017364,
+      "tag": "0014_solid_switch",
+      "breakpoints": true
+    }
+  ]
+}
